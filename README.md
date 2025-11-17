@@ -1,6 +1,6 @@
 # Amplify + NextJs Demo
 
-A demo of using Amplify with Next js to create a simple Todo list. For more details, please refer to my article [AWS Amplify Gen.2 For Web App In Super Detail]().
+A demo of using Amplify with Next js to create a simple Todo list. For more details, please refer to my article [AWS Amplify Gen.2 For Web App In Super Detail](https://medium.com/@itsuki.enjoy/aws-amplify-gen-2-for-web-app-in-super-detail-b91d8cabadb5?postPublishedType=initial).
 
 Specifically, this demo includes demonstration on using the basic building blocks Amplify provides.
 
